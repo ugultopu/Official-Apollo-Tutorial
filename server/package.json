@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "My implementation (follow along) of the server implementation for the official Apollo GraphQL tutorial",
   "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
   "repository": "git@github.com:ugultopu/Official-Apollo-Tutorial.git",
   "author": "Utku Gultopu",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "apollo-server": "^2.18.2",
-    "graphql": "14"
+    "graphql": "14",
+    "nodemon": "^2.0.4"
   }
 }
