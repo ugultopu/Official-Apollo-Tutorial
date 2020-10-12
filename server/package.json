@@ -1,0 +1,10 @@
+{
+  "name": "official-apollo-graphql-tutorial-server-ugultopu",
+  "version": "1.0.0",
+  "description": "My implementation (follow along) of the server implementation for the official Apollo GraphQL tutorial",
+  "main": "src/index.js",
+  "repository": "git@github.com:ugultopu/Official-Apollo-Tutorial.git",
+  "author": "Utku Gultopu",
+  "license": "MIT",
+  "private": true
+}
