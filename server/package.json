@@ -6,5 +6,9 @@
   "repository": "git@github.com:ugultopu/Official-Apollo-Tutorial.git",
   "author": "Utku Gultopu",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "graphql": "14"
+  }
 }
