@@ -11,9 +11,13 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "apollo-datasource": "^0.7.2",
     "apollo-datasource-rest": "^0.9.4",
     "apollo-server": "^2.18.2",
     "graphql": "14",
-    "nodemon": "^2.0.4"
+    "isemail": "^3.2.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
   }
 }
